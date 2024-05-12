@@ -1,0 +1,1 @@
+import{Y as a}from"./Map.da6e859b.js";import{_ as n,o as r,q as s,h as _}from"./app.5957a2d0.js";const c={__name:"YandexMap",setup(p){const o=[55,33],e=["fullscreenControl"],t={zoomControl:{position:{right:10,top:50}}};return(l,d)=>(r(),s(_(a),{coordinates:o,"detailed-controls":t,controls:e,"map-type":"hybrid"}))}};var x=n(c,[["__file","YandexMap.vue"]]);export{x as default};
